@@ -1,4 +1,4 @@
-package cn.aa.cc;
+package cn.springCloud.cc;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.boot.SpringApplication;

@@ -1,4 +1,4 @@
-package cn.aa.ss;
+package cn.springCloud.ss;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
